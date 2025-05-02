@@ -1,5 +1,5 @@
 👋 Hi, I’m Aditya Dwivedi
-👀 I’m interested in Web Development,FrontEnd Development, DSA, and building cool projects
+👀 I’m interested in Data Anylyst, Web Development,FrontEnd Development, DSA, and building cool projects
 🌱 I’m currently learning React, Tailwind CSS, and DSA in Java
 💞️ I’m looking to collaborate on open-source projects and innovative web apps
 
